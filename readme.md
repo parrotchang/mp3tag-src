@@ -26,9 +26,16 @@
 
 5. 進入 `data\sources` 資料夾。
 
-6. 將剛剛解壓縮出來包含腳本在內的三種檔案`.src, .ini, settings`複製到這個 `sources` 資料夾內。
+6. 如果您使用的是 Mac 版本的 Mp3tag，請將檔案放入以下路徑：
 
-7. 重新啟動 Mp3tag 以載入腳本。
+   ~/Library/Containers/app.mp3tag.Mp3tag/Data/Library/Application Support/Mp3tag/data/sources
+
+* *Mac 使用者快速開啟提示：
+由於 Mac 的系統資料夾較深，最快的開啟方式是啟動 Mp3tag 應用程式，點選左上角選單列的 Mp3tag -> Preferences... (偏好設定) -> 切換到 Sources (標籤來源) 頁籤，接著點擊下方的 Open sources folder 按鈕，即可直接開啟該資料夾並將檔案放進去。* *
+
+8. 將剛剛解壓縮出來包含腳本在內的三種檔案`.src`, `.ini`, `settings`複製到這個 `sources` 資料夾內。
+
+9. 重新啟動 Mp3tag 以載入腳本。
 
 ## 🚀 使用說明 (Usage)
 
