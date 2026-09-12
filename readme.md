@@ -1,4 +1,4 @@
-# Mp3tag Web Source Script for Apple Music
+# Mp3tag Web Source Script for Apple Music (2026.09)
 
 這是一個專為 [Mp3tag](https://www.mp3tag.de/) 設計的 Web Source 腳本（Tag Source）。它可以幫助您直接從 Apple Music 的資料庫中獲取音樂資訊，並自動寫入音訊檔案的 ID3 v1 或 ID3 v2 標籤中。
 
@@ -41,7 +41,7 @@
 
 1. 將您需要修改標籤的音樂檔案拖曳到 Mp3tag 軟體視窗中。
 
-2. 選取您想要更新標籤的檔案（可按 `Ctrl + A` 全選）。
+2. 選取您想要更新標籤的檔案（可按 `Ctrl + A` 或 `Command + A`全選）。
 
 3. 點擊頂部選單的 **「標籤來源 (Tag Sources)」**。
 
